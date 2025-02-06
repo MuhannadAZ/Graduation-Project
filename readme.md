@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83462318-40d2-4937-bbaf-9b2adac6e88e)![image](https://github.com/user-attachments/assets/a937b656-f0ab-4b1b-9ac0-f65d46a1c555)# Personalized Social-ecommerce Platform Utilizing Content-based Filtering Algorithm
+# Personalized Social-ecommerce Platform Utilizing Content-based Filtering Algorithm
 
 ## Abstract
 
