@@ -45,6 +45,7 @@ The platform is built using a modern tech stack including:
 - Timeline of posts from followed users and communities
 ![linked2](https://github.com/user-attachments/assets/d4c62572-b199-442c-8804-2310514c43fe)
 ![image](https://github.com/user-attachments/assets/cecd402c-342f-464a-bf36-39b4ac27e0a5)
+![image](https://github.com/user-attachments/assets/76e00ee6-dfca-4cdb-9cbd-6d91aac77249)
 
 ### Communities 
 - Browse communities 
