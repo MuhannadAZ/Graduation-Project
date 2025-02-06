@@ -31,11 +31,12 @@ The platform is built using a modern tech stack including:
 - Password recovery
 - Captcha verification
 - Selection of interest categories during registration
-![image](https://github.com/user-attachments/assets/e724fc14-e94b-4863-b90c-9f1d52bdfb9e)
-![image](https://github.com/user-attachments/assets/bcef0bb2-717a-48ec-8c55-92eee41f3566)
-![image](https://github.com/user-attachments/assets/d5ce7ce3-308c-4de9-b9d6-a22246f24af2)
-![image](https://github.com/user-attachments/assets/1f167bb0-4a13-4e29-9a76-2c1debb6b42b)
-![image](https://github.com/user-attachments/assets/22dd7c85-f1fb-45e2-84ae-dede904411dd)
+![image](https://github.com/user-attachments/assets/f792f027-3b74-40a1-9576-8580a7bf8316)
+![image](https://github.com/user-attachments/assets/d0809d7c-c7f6-49eb-9090-5ca5ae236e62)
+![image](https://github.com/user-attachments/assets/7fd43201-70c4-4822-bf30-5738cdbced12)
+![image](https://github.com/user-attachments/assets/63183b74-6722-43f9-9e9b-d917ff4bcfbe)
+![image](https://github.com/user-attachments/assets/47e2769d-459f-439e-9815-3e99111fdc1f)
+
 
 
 ### Home
