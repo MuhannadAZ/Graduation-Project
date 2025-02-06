@@ -1,17 +1,29 @@
 # Personalized Social-ecommerce Platform Utilizing Content-based Filtering Algorithm
 
-## Abstract
-
+## 🌟 Abstract 
 Trendlyst is a social-ecommerce platform that combines social media features with product discovery and recommendations. The platform implements a content-based filtering algorithm to provide personalized product suggestions based on user interests and interactions. Key functionalities include:
+- 💫 Social media integration with posts, likes, saves, and replies
+- 💭 Community-based product discussions and reviews
+- 🎯 Personalized product recommendations using content-based filtering
+- 📂 Category-based content organization and community groups
+- 🔗 External purchase links to official product sources
+- 🤝 Business-to-consumer interaction opportunities
 
-- Social media integration with tweet-like posts, likes, saves, and replies
-- Community-based product discussions and reviews
-- Personalized product recommendations using content-based filtering
-- Category-based content organization and community groups
-- External purchase links to official product sources
-- Business-to-consumer interaction opportunities
-  
-- ## Pages & Features
+## 🛠️ Technologies
+The platform is built using a modern tech stack including:
+
+### 🎨 Frontend
+- ⚛️ React with Vite for a fast and optimized user interface
+- 📘 TypeScript for type-safe development
+- 🎨 HTML5 and CSS3 for structure and styling
+
+### ⚙️ Backend
+- 🐍 Python with Flask framework for server-side operations
+- 🔐 JavaScript for user authentication and registration management
+- 🤖 Ollama AI for generating mock data during development
+- 📦 JSON for data interchange and storage
+
+## 📱 Pages & Features
 
 ### Authentication
 - User registration
