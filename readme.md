@@ -1,7 +1,11 @@
 # Personalized Social-ecommerce Platform Utilizing Content-based Filtering Algorithm
 
 ## 🌟 Introduction 
-Trendlyst is a social-ecommerce platform that transforms traditional online shopping from a direct, transactional experience into an engaging social journey. By combining social media features with product discovery and recommendations, it makes shopping more enjoyable and interactive, moving away from the conventional linear approach. The platform implements a content-based filtering algorithm to provide personalized product suggestions based on user interests and interactions. Key functionalities include:
+**Trendlyst** is a social-ecommerce platform that transforms traditional online shopping from a direct, transactional experience into an engaging social journey. By combining social media features with product discovery and recommendations, it makes shopping more enjoyable and interactive, moving away from the conventional linear approach. The platform implements a **content-based filtering algorithm** to provide personalized product suggestions based on user interests and interactions.
+
+The platform integrates features like **X (Formely Twitter) real-time timeline** for trending updates, **Reddit's community-driven discussions** for authentic recommendations, **Instagram's visually-rich Explore page** for personalized discovery, and **Spotify's curated categories** for tailored content. This unique fusion allows users to explore products in a way that feels natural, interactive, and fun.
+
+Key functionalities include:
 - 💫 Social media integration with posts, likes, saves, and replies
 - 💭 Community-based product discussions and reviews
 - 🎯 Personalized product recommendations using content-based filtering
