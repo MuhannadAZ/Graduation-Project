@@ -24,7 +24,7 @@ The platform is built using a modern tech stack including:
 - 📦 JSON for data interchange and storage
 
 ## 📱 Pages & Features
-Trendlyst have more than 10 intractive pages
+Trendlyst offers an engaging user experience with more than 10 interactive pages designed to provide dynamic and immersive content for its visitors.
 
 ### Authentication
 - User registration
